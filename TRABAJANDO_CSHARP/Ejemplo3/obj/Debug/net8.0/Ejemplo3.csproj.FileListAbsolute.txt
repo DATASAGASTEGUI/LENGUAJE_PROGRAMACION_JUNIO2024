@@ -1,0 +1,15 @@
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.AssemblyInfoInputs.cache
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.AssemblyInfo.cs
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.sourcelink.json
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\bin\Debug\net8.0\Ejemplo3.exe
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\bin\Debug\net8.0\Ejemplo3.deps.json
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\bin\Debug\net8.0\Ejemplo3.runtimeconfig.json
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\bin\Debug\net8.0\Ejemplo3.dll
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\bin\Debug\net8.0\Ejemplo3.pdb
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.dll
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\refint\Ejemplo3.dll
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.pdb
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\Ejemplo3.genruntimeconfig.cache
+C:\LENGUAJE_PROGRAMACION\TRABAJANDO_CSHARP\Ejemplo3\obj\Debug\net8.0\ref\Ejemplo3.dll

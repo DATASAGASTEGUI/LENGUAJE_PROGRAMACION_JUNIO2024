@@ -1,0 +1,35 @@
+﻿<Window x:Class="VentanaWPF_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VentanaWPF_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="321" Width="384">
+
+    <Canvas Margin="0,0,400,124">
+        <TextBlock x:Name="LblN1" Canvas.Left="52" TextWrapping="Wrap" Canvas.Top="28"><Run Language="es-es" Text="Ingresar número 1?"/></TextBlock>
+        <TextBlock x:Name="LblN2" Canvas.Left="52" TextWrapping="Wrap" Canvas.Top="89" HorizontalAlignment="Left" VerticalAlignment="Top"><Run Language="es-es" Text="Ingresar Número 2?"/><LineBreak/><Run Language="es-es"/></TextBlock>
+        <TextBlock x:Name="LblResultado" Canvas.Left="52" TextWrapping="Wrap" Canvas.Top="141" HorizontalAlignment="Left" VerticalAlignment="Top"><Run Language="es-es" Text="Resultado:"/><LineBreak/><Run Language="es-es"/></TextBlock>
+        <TextBox x:Name="TxtN1" Canvas.Left="198" TextWrapping="Wrap" Canvas.Top="26" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20"/>
+        <TextBox x:Name="TxtN2" Canvas.Left="198" TextWrapping="Wrap" Canvas.Top="89" Width="150" Height="20"/>
+        <TextBox x:Name="TxtResultado" Canvas.Left="198" TextWrapping="Wrap" Canvas.Top="149" Width="150" Height="20"/>
+        <Button x:Name="BtnSumar" Content="Sumar" Canvas.Left="52" Canvas.Top="198" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BtnSumar_Click" Width="50"/>
+        <Button x:Name="BtnNuevo" Content="Nuevo" Canvas.Left="184" Canvas.Top="198" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Click="BtnNuevo_Click"/>
+        <Button x:Name="BtnSalir" Content="Salir" Canvas.Left="292" Canvas.Top="198" RenderTransformOrigin="0.293,0.463" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Click="BtnSalir_Click" />
+        <RadioButton x:Name="rbSumar" Content="Sumar" Canvas.Left="27" Canvas.Top="254" GroupName="Aritmetica" Checked="rbSumar_Checked" />
+        <RadioButton x:Name="rbMultiplicar" Content="Multiplicar" Canvas.Left="104" Canvas.Top="253" GroupName="Aritmetica" Checked="rbMultiplicar_Checked" />
+        <ComboBox x:Name="CboAritmetica" Canvas.Left="228" Canvas.Top="254" Width="120" HorizontalAlignment="Left" VerticalAlignment="Center" SelectionChanged="CboAritmetica_SelectionChanged">
+           <ComboBoxItem Content="Sumar" />
+           <ComboBoxItem Content="Multiplicar" />
+        </ComboBox>
+
+
+       
+
+        
+
+
+
+    </Canvas>
+</Window>

@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------------
+PRUEBAS (5 PTS) (ACIERTO 0.25, ERROR -0.125)
+--------------------------------------------------------------------------------
+La función principal del sistema operativo es:
+ 
+a. Facilitar el uso de la computadora al usuario.
+b. Hacer la programación más fácil para los programadores.
+c. Administrar recursos.
+d. Todas las anteriores X
+--------------------------------------------------------------------------------
+Las partes de un sistema operativo son: 
+
+a) Núcleo, drivers y programas.
+b) Núcleo, consola de comandos y aplicaciones.
+c) Núcleo, intérprete de comandos y sistema de archivos. X
+d) Sistema de archivos, compiladores / intérpretes y administrador de recursos.
+--------------------------------------------------------------------------------
+Para poder programar un algoritmo: 
+
+a. Debe tener un número infinito de pasos.
+b. Debe tener al menos una salida.
+c. Cada paso debe ser escrito lo más corto posible. X
+d. Ninguna de las anteriores.
+--------------------------------------------------------------------------------
+El ensamblador y el código máquina son: 
+
+a. Lenguajes de programación de bajo nivel. X
+b. Lenguajes de programación de alto nivel.
+c. Parte del sistema operativo.
+d. Entornos de programación.
+--------------------------------------------------------------------------------
+El compilador de Python permite ejecutar un archivo con extensión .py: 
+
+a. Siempre que se ejecute como superusuario.
+b. Verdadero. X
+c. Falso. Python no tiene compilador.
+d. Falso. Los archivos .py no pueden ser ejecutados.
+--------------------------------------------------------------------------------
+PRUEBAS (6-10)
+--------------------------------------------------------------------------------
+La parte de la computadora responsable de realizar cálculos aritméticos y lógicos se llama:
+
+a. RAM
+b. CPU X
+c. ROM
+d. Registros
+--------------------------------------------------------------------------------
+¿Qué tipo de salidas de energía tiene el bus GPIO? 
+
+a. De 3.3V y 5V X
+b. No tiene salidas de energía
+c. SPI e I2C
+d. PoE (Power over Ethernet)
+--------------------------------------------------------------------------------
+La memoria ROM... 
+
+a) Es volátil
+b) Tiene gran capacidad
+c) Almacena las instrucciones de arranque del procesador X
+d) Almacena el sistema operativo del procesador
+--------------------------------------------------------------------------------
+El siguiente comando de la consola $ mv blink.py blink2.py 
+
+a) Renombra el archivo blink.py como blink2.py X
+b) Es incorrecto.
+c) Renombra el archivo blink2.py como blink.py
+d) Mueve el archivo blink.py a home.
+--------------------------------------------------------------------------------
+¿Cuál de las siguientes reglas no es correcta? 
+
+a) Un símbolo de decisión puede ser alcanzado por varias líneas.
+b) Varias líneas pueden llegar a un símbolo de proceso.
+c) Todos los símbolos deben estar conectados.
+d) Todas las líneas que queramos pueden salir de un símbolo de decisión. X
+--------------------------------------------------------------------------------

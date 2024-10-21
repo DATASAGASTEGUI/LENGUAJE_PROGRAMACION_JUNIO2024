@@ -1,0 +1,36 @@
+C:\Users\RYZEN\AppData\Local\Programs\Python
+
+C:\Users\RYZEN\AppData\Local\Programs\Python\Python312
+C:\Users\RYZEN\AppData\Local\Programs\Python\Python312\Script
+
+ENTORNO VIRTUAL
+----------------
+- CREAR UN ENTORNO VIRTUAL
+
+py -3.12 -m venv entorno_python3.12
+py -3.13 -m venv entorno_python3.13
+
+ANACONDA (DISTRIBUCION)
+-----------------------
+
+********************
+***   SINTAXIS   ***
+********************
+
+- TIPOS DE DATOS SON DINAMICOS
+
+int x;
+x = 5;
+x = "Hola Mundo"; // ERROR
+
+x = 10
+x = "Hola Mundo"
+
+- FUNCION
+
+def sumar(n1, n2):
+    r = n1 + n2
+    return r
+    
+
+

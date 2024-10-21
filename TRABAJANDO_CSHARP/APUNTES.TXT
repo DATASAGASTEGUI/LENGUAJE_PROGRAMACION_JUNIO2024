@@ -1,0 +1,6 @@
+- CREAR UN PROYECTO C#
+dotnet new console -o Ejemplo1
+
+- EJECUTAR EL PROYECTO C#
+dotnet run
+

@@ -1,0 +1,6 @@
+Ejemplo1
+Ejemplo2
+Ejemplo3
+Ejemplo4: Conversiones de tipo cast (tipo grande a un tipo pequeño)
+
+
